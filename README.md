@@ -9,7 +9,7 @@ Chicago, IL
 
 👋 About Me
 
-Dedicated healthcare professional with 20 years of clinical experience (MFM OB/GYN Sonography) and newly formalized training in SQL, Python, Excel, and Tableau. I bridge deep clinical insight with strong data analytics skills to improve patient outcomes, revenue integrity, operational workflows, and data accuracy across healthcare systems.
+Dedicated healthcare professional with +10 years of clinical experience (MFM OB/GYN Sonography) and newly formalized training in SQL, Python, Excel, and Tableau. I bridge deep clinical insight with strong data analytics skills to improve patient outcomes, revenue integrity, operational workflows, and data accuracy across healthcare systems.
 
 I bring advanced knowledge of Epic EHR, medical terminology, medical billing language (CPT/HCPCS), and healthcare workflows — paired with hands-on analytical projects that demonstrate real-world impact.
 
@@ -58,7 +58,3 @@ Identified missing codes, incorrect dates, duplicate encounters
 
 Created KPIs for denial rate, average reimbursement, and clean claim rate
 📁 Files: python-projects/claims-cleaning.ipynb
-
-🔹 MFM OB/GYN Workflow Optimization (Tableau + Excel)
-
-Goal: Improve scheduling, reduce wait times, and analyze volume trends
